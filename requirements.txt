@@ -1,0 +1,4 @@
+python-socketio
+websocket-client
+termcolor
+git+git://github.com/PawelGorny/deuces
